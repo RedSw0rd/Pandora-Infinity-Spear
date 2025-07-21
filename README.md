@@ -7,3 +7,7 @@ This repository contains packages that provide all necessary installation and co
 
 > **Note:**  
 > This repository is part of the Pandora Infinity project and is not intended to be used standalone.
+
+
+
+🔗 [RedSword Official Site](https://redsword.io)

@@ -10,4 +10,4 @@ This repository contains packages that provide all necessary installation and co
 
 
 
-🔗 [RedSword Official Site](https://redsword.io)
+🔗 [redsword.io](https://redsword.io)
